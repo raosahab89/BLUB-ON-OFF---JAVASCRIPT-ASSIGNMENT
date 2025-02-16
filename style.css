@@ -1,0 +1,37 @@
+body{background-color: #000;}
+
+
+#bic{
+    border-radius: 10px;
+}
+
+#wrap{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+#bic{
+    height: 500px;
+    width: 500px;
+}
+
+.btn{
+    background-color: #000;
+    height: 10vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+
+}
+
+button{
+    height: 60px;
+    width: 150px;
+    font-size: larger;
+}
